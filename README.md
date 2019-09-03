@@ -1,6 +1,6 @@
 # Fundamentos de programación.
 
-##Elementos HTML
+## Elementos HTML
 
 Ejemplos de uso de los principales elementos de HTML
 
